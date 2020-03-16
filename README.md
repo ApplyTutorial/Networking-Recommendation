@@ -29,7 +29,7 @@
 ## 推荐信的提交界面 ##
 - 教授的基本信息（院系、职称、地址、国家、推荐系统ID）
 - 你是如何知道、了解这个申请人的？ 
-- 你指导他、和他一起工作多久了？
+- 你指导他、和他一起工作多久了
 - 为申请人的各方面能力进行打分
    - Knowledge in chosen field 专业领域的知识
    - Motivation and perseverance toward goals 对学术目标的追寻动力
@@ -37,22 +37,22 @@
    - Ability/potential for college teaching 完成授课的可能性
    - Ability to plan and conduct research 进行研究的能力
 
-   - 打分比较的群体是什么？ 
+   - 打分比较的群体是什么？Please identify the most selective group to which you are comparing the applicant
      - 授课历史中的本科生
      - 授课历史中的研究生（硕士、博士）
      - 指导科研的本科生
      - 指导科研的所有成员（本科、硕士、博士）
-   - 打分的标准
+   - 打分的选项
      - Exceptional (Upper 5%)
      - Outstanding (Next 15%)
      - Very Good (Next 15%)
      - Good (Next 15%)
      - Next 50%
   -  Indicate your endorsement 综合评价此申请人
-    - Highly recommended
-    - Recommended
-    - Recommended with some reservations
-    - Not recommended
+     - Highly recommended
+     - Recommended
+     - Recommended with some reservations
+     - Not recommended
   - 提交推荐信文档（可选）  
  
 
