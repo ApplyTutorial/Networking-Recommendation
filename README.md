@@ -48,12 +48,12 @@
      - Very Good (Next 15%)
      - Good (Next 15%)
      - Next 50%
-  -  Indicate your endorsement 综合评价此申请人
-     - Highly recommended
-     - Recommended
-     - Recommended with some reservations
-     - Not recommended
-  - 提交推荐信文档（可选）  
+ -  Indicate your endorsement 综合评价此申请人
+    - Highly recommended
+    - Recommended
+    - Recommended with some reservations
+    - Not recommended
+ - 提交推荐信文档（可选）  
  
 
 
